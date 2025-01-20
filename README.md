@@ -25,9 +25,7 @@
 ## 👀 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SpaceCadet2308&show_icons=true&locale=en&theme=dark&hide_border=false" alt="SpaceCadet2308" /></p>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceCadet2308&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SpaceCadet2308&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceCadet2308&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SpaceCadet2308&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/SpaceCadet2308/ama)
 <!--
