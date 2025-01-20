@@ -3,10 +3,12 @@
 
 
 
-<p align="center">
-<img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
-</p>
-⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.87 %
+
+⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.41 %
+
+---
+
+⏰ Updated on Mon, 20 Jan 2025 18:17:30 GMT
 
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
