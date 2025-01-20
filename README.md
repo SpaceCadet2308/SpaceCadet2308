@@ -5,6 +5,11 @@
 
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,pandas,html,css,js,react,express,node,tailwind,mongodb,appwrite,mysql,git" alt="Tech Stack" /> </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aryan2308?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
+
 <!--
 **SpaceCadet2308/SpaceCadet2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
