@@ -1,5 +1,4 @@
 ## Hello , World 👋
-
 ----
 ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.87 %
 
@@ -10,6 +9,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Aryan2308?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/SpaceCadet2308/ama)
 <!--
 **SpaceCadet2308/SpaceCadet2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
