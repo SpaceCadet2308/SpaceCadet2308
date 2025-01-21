@@ -1,5 +1,17 @@
 ## Hello World 👋
 
+
+### Hi there 👋
+
+⏳ Year progress { █████████████████████████████▁▁▁▁▁▁▁▁▁▁ } 60.55 %
+
+---
+
+⏰ Updated on Mon, 21 Jan 2025 18:04:02 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+
+
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=EFB036&size=25&lines=Welcome+to+my+GitHub+Profile!!😘;Myself+Aryan+,+An+Enthusiast+Developer+😎😎;" /></a>
 </p>
