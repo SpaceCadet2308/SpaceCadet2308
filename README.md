@@ -1,15 +1,6 @@
 ## Hello World 👋
 
 
-### Hi there 👋
-
-⏳ Year progress { █████████████████████████████▁▁▁▁▁▁▁▁▁▁ } 60.55 %
-
----
-
-⏰ Updated on Mon, 21 Jan 2025 18:04:02 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
 
 <p align="center">
