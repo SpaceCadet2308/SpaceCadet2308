@@ -4,13 +4,15 @@
 
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=EFB036&size=25&lines=Welcome+to+my+GitHub+Profile!!😘;Myself+Aryan+,+An+Enthusiast+Developer+😎😎;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=EFB036&size=25&lines=Welcome+to+my+GitHub+Profile!!😘;Aryan+Here,+An+Enthusiast+Developer+😎😎+sd;" /></a>
 </p>
 
 <p align="center">
 <img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
 </p>
-
+<p align="left">💡I'm a passionate developer and tech enthusiast dedicated to creating impactful projects.</p>
+<p align="left">🚀 Always learning and exploring opportunities to grow in AI and software development.</p>
+<p>⚽ Off-code, I enjoy playing football and love to tryout video games.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
  
@@ -18,7 +20,7 @@
 
 </p>
 <p align="center">So currently, I am working on these all technologies: </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,express,nodejs,tailwind,mongodb,mysql,git" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,express,nodejs,tailwind,mongodb,mysql,git,ros" alt="Tech Stack" /> </p>
 
 <h3 align="left"> Data Structures </h3>
 
