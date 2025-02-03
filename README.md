@@ -26,7 +26,7 @@
 
 • Beyond code: Football enthusiast ⚽, casual gamer 🎮, and always up for outdoor adventures or strategy-based video games.
 
-•Builder at heart 🤖: Developed robotics projects focusing on path planning, computer vision, and human-machine interaction.
+• Builder at heart 🤖: Developed robotics projects focusing on path planning, computer vision, and human-machine interaction.
 
 • Aiming to leverage my technical expertise and collaborative spirit to drive innovation in the AI-driven tech landscape..</p>
 <h3 align="left">Languages and Tools:</h3>
