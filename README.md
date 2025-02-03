@@ -10,9 +10,25 @@
 <p align="center">
 <img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
 </p>
-<p align="left">💡I'm a passionate developer and tech enthusiast dedicated to creating impactful projects.</p>
-<p align="left">🚀 Always learning and exploring opportunities to grow in AI and software development.</p>
-<p>⚽ Off-code, I enjoy playing football and love to tryout video games.</p>
+<p align="left">💻 About Me
+
+• Final-year B.Tech (CSE) student specializing in Artificial Intelligence at VIT Chennai, driven to transform innovative ideas into real-world solutions.
+
+
+•	Skills in: AI/ML algorithms, full-stack development, and problem-solving with a keen interest in emerging technologies
+
+
+• Passionate developer 💡 focused on building tech solutions that address real challenges, paired with a relentless curiosity for learning.
+
+
+• Continuous learner 🚀 exploring advancements in AI, automation, and full-stack development to stay ahead in the tech curve.
+
+
+• Beyond code: Football enthusiast ⚽, casual gamer 🎮, and always up for outdoor adventures or strategy-based video games.
+
+•Builder at heart 🤖: Developed robotics projects focusing on path planning, computer vision, and human-machine interaction.
+
+• Aiming to leverage my technical expertise and collaborative spirit to drive innovation in the AI-driven tech landscape..</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
  
